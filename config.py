@@ -1,0 +1,6 @@
+seatgeek_apikey = "fb00c1e3e4062947e564c9826855d3640dfd3f9e7e3120af7e7a6f3479b08bb8"
+seatgeek_clientid = "MjU2MTQwMjd8MTY0NDA5ODIyNC43MTI3NzY3"
+eventbrite_apikey = "KCFWG7J3X3LUIYMIHYJX"
+ticketmaster_apikey = "QuIMHzpT860Xoldoeo5Kn9a8dOt06btA"	
+setlistfm_apikey = "L37xzB9zwA-IK9DZhV0O7KnzAXp57DjJxPFA"
+stubhub_apikey = "bK8k5xAMsO4XALgHr5TaiN60Egva"
